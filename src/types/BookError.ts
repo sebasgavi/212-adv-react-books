@@ -1,0 +1,4 @@
+export enum BookError {
+  EMPTY_TITLE = 'EMPTY_TITLE',
+  ALREADY_EXISTS = 'ALREADY_EXISTS',
+}
